@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on asepsaep</title>
+    <link>http://blog.asepsaep.com/tags/</link>
+    <description>Recent content in Tags on asepsaep</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 16 Aug 2013 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://blog.asepsaep.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Code</title>
+      <link>http://blog.asepsaep.com/tags/code/</link>
+      <pubDate>Fri, 16 Aug 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://blog.asepsaep.com/tags/code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Highlighting</title>
+      <link>http://blog.asepsaep.com/tags/highlighting/</link>
+      <pubDate>Fri, 16 Aug 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://blog.asepsaep.com/tags/highlighting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Link Post</title>
+      <link>http://blog.asepsaep.com/tags/link-post/</link>
+      <pubDate>Mon, 12 Aug 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://blog.asepsaep.com/tags/link-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Readability</title>
+      <link>http://blog.asepsaep.com/tags/readability/</link>
+      <pubDate>Thu, 23 May 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://blog.asepsaep.com/tags/readability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sample Post</title>
+      <link>http://blog.asepsaep.com/tags/sample-post/</link>
+      <pubDate>Fri, 16 Aug 2013 00:00:00 +0000</pubDate>
+      
+      <guid>http://blog.asepsaep.com/tags/sample-post/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

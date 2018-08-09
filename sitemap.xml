@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://blog.asepsaep.com/about/</loc>
+  </url>
+  
+  <url>
+    <loc>http://blog.asepsaep.com/posts/code-highlighting-post/</loc>
+    <lastmod>2016-09-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.asepsaep.com/posts/sample-link-post/</loc>
+    <lastmod>2013-08-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.asepsaep.com/posts/readability-feature-post/</loc>
+    <lastmod>2013-05-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.asepsaep.com/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.asepsaep.com/tags/code/</loc>
+    <lastmod>2016-09-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.asepsaep.com/tags/highlighting/</loc>
+    <lastmod>2016-09-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.asepsaep.com/tags/link-post/</loc>
+    <lastmod>2013-08-12T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.asepsaep.com/posts/</loc>
+    <lastmod>2016-09-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.asepsaep.com/tags/readability/</loc>
+    <lastmod>2013-05-23T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.asepsaep.com/tags/sample-post/</loc>
+    <lastmod>2016-09-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.asepsaep.com/tags/</loc>
+    <lastmod>2016-09-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://blog.asepsaep.com/theme-setup/</loc>
+  </url>
+  
+  <url>
+    <loc>http://blog.asepsaep.com/</loc>
+    <lastmod>2016-09-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
